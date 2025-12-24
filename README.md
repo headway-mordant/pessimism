@@ -39,6 +39,17 @@ To use the template, run the following command(s):
 
 3. Install all project golang dependencies by running `go mod download`.
 
+## Local Development
+
+### Setup
+
+1. Clone the repository and install dependencies:
+```bash
+git clone https://github.com/headway-mordant/pessimism.git
+cd pessimism
+yarn install  # or npm install
+```
+
 ## To Run
 
 1. Compile pessimism to machine binary by running the following project level command(s):
